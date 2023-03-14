@@ -2,7 +2,7 @@
 
 ### 🤵 Nathan / KAT Rumple
 
-**💻 Développeur, depuis 5 ans.**
+**💻 Développeur, depuis 6 ans.**
 
 **🎓 Diplomé de [EDEN SCHOOL](https://www.edenschool.fr).**
 
