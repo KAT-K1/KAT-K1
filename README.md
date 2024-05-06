@@ -1,6 +1,6 @@
 # 👋 Salut, qui suis je ?
 
-### 🤵 Nathan / KAT Rumple
+### 🤵 KAT / K1
 
 **💻 Développeur, depuis 6 ans.**
 
