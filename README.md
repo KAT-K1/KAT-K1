@@ -18,7 +18,7 @@
 
 <div align="center">
   <tr style="display:flex; justify-content: space-around">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nat-r&count_private=true&show_icons=true&theme=synthwave&layout=compact&hide_title=false&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=KAT-K1&count_private=true&show_icons=true&theme=synthwave&layout=compact&hide_title=false&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
   </tr>
 </div>
 
